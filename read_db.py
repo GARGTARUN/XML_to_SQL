@@ -1,4 +1,3 @@
-# importing the module
 import sqlite3
 
 # connect withe the myTable database
